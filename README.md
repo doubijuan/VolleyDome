@@ -248,7 +248,7 @@ public class MainActivity extends Activity {
     }
 }
 ```
-![源码请点击这里：Android 网络通信框架Volley的二次封装](http://download.csdn.net/detail/qq_20785431/9479812)
+[源码请点击这里：Android 网络通信框架Volley的二次封装](http://download.csdn.net/detail/qq_20785431/9479812)
 
 
 
